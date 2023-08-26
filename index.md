@@ -1,8 +1,11 @@
 # Alex Wakabayashi's First CS193 Homework
 
-You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+My favorite things about CS193:
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+- Learning how to use GitHub
+- The engaging lectures
+- It's only 1 credit hour
+- The content discussed in the syllabus
 
 ### Markdown
 
